@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1482841592 source:c:\users\samet\desktop\programlama\denemenotepad4\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<locale.h>
+
